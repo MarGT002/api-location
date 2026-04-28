@@ -14,7 +14,7 @@ import { UIRenderer } from './ui/UIRenderer.js';
 // ─────────────────────────────────────────────────────────────────────────────
 //  ⚠️  CONFIGURACIÓN: Reemplaza con tu API Key de https://ipgeolocation.io/
 // ─────────────────────────────────────────────────────────────────────────────
-const API_KEY = 'TU_API_KEY_AQUI';
+const API_KEY = 'd1271f7268774df2b5dcf87c009127ad';
 
 /**
  * Inicializa y ejecuta la aplicación de información del cliente.
