@@ -14,7 +14,7 @@
  */
 
 // ─── Configuración ────────────────────────────────────────────────────────────
-const API_KEY = 'TU_API_KEY_AQUI';
+const API_KEY = 'd1271f7268774df2b5dcf87c009127ad';
 const BASE_URL = 'https://api.ipgeolocation.io/ipgeo';
 
 // IPs de prueba representativas de distintas partes del mundo
